@@ -1,3 +1,7 @@
+Датасет взят с Kaggle.
+
+## Ссылка на датасет
+
 [Link with dataset](https://www.kaggle.com/datasets/steve1215rogg/e-commerce-dataset/data)
 
 
@@ -9,7 +13,8 @@ The data was generated to provide a realistic representation of common e-commerc
 
 
 ## О проекте
-Проект разбит по папкам. Три Notebook лежат в папке notebooks
+Проект разбит по папкам.
+Три Notebook лежат в папке notebooks
 Имеется логирование, которое позволяет оперативно отслеживать ошибки и в дальнейшем расширять функционал
 
 Используемые библиотеки содержатся в requirements.txt
