@@ -26,5 +26,3 @@ The data was generated to provide a realistic representation of common e-commerc
 Имеется логирование, которое позволяет оперативно отслеживать ошибки и в дальнейшем расширять функционал
 
 Используемые библиотеки содержатся в requirements.txt
-
-Описени
