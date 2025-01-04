@@ -1,0 +1,14 @@
+services:
+  jupyter:
+    build:
+      context: .
+    ports:
+      - 18889:8888
+    volumes:
+      - ./work_directory:/home/jovyan/work
+    container_name: jupyter_container
+    command: start-notebook.py --NotebookApp.token='my-token'
+
+volumes:
+  jupyter-data:
+    name: jupyter-data
